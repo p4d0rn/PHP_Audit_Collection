@@ -62,11 +62,11 @@ eval($a);
 
 这里就要用到了PHP的原生类：`Error`和`Exception`
 
-![image-20221018160914553](../../images/image-20221018160914553.png)
+![image-20221018160914553](../images/image-20221018160914553.png)
 
 可以看到输出了我们自定义的错误信息和行号
 
-![image-20221018161114438](../../images/image-20221018161114438.png)
+![image-20221018161114438](../images/image-20221018161114438.png)
 
 注意：`?><?php system('calc');?>`
 `第一个?>`是为了闭合前面的`<?php Error: `  （`eval`会自动在参数前拼接`<?php`）
@@ -95,7 +95,7 @@ if( ($test->a != $test->b) && (md5($test->a) === md5($test->b)) && (sha1($test->
 }
 ```
 
-![image-20221018162420550](../../images/image-20221018162420550.png)
+![image-20221018162420550](../images/image-20221018162420550.png)
 
 md5、sha1会触发`Error`类的`__toString`方法，我们可以看到输出的`$a`、`$b`相同
 而我们在`new Error()`时，`$a、$b`第二个参数不同，因此`$a != $b`
