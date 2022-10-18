@@ -1,7 +1,9 @@
 # 一、PHP Session机制
 
 当通过`session_start()`开启会话后，PHP根据客户端的PHPSESSID获取当前会话数据
+
 （即session文件，文件名为sess_PHPSESSID值，位于temp文件夹下）
+
 ![image-20221018195513630](../images/image-20221018195513630.png)
 
 随便打开一个看看，会发现里面其实是序列化的值
@@ -23,15 +25,23 @@ $_SESSION['doge'] = "Taco";
 var_dump($_SESSION);
 ```
 
+
+
 > php:  doge|s:4:"Taco";       // 键名|after serialize
 >
 > php_serialize:  a:1:{s:4:"doge";s:4:"Taco";}       // array after serialize
 >
 > php_binary:  <0x04>doges:4:"Taco";   // 键名长度对应的ASCII字符+键名s+after serialize
 
+
+
 `php_ini`中可以设置`session.serialize_handler`
+
 PHPINFO可以查看
+
 ![image-20221018202001193](../images/image-20221018202001193.png)
+
+
 
 # 二、session引擎利用
 

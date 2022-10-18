@@ -12,6 +12,7 @@ Record Some Php Audition Tricks And Experience
 1. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E7%AE%80%E4%BB%8B.md">反序列化介绍</a>
 2. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%80%83%E9%80%B8.md">字符串逃逸</a>
 3. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/Phar%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md">phar反序列化</a>
+4. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/session%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md">session反序列化</a>
 
 ### 三、主流框架
 
