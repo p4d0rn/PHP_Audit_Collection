@@ -5,7 +5,6 @@ Record Some Php Audition Tricks And Experience
 
 1. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/intval.md">intval Tricks</a>
 2. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/preg_match.md">preg_match Tricks</a>
-3. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/PHP%E5%8E%9F%E7%94%9F%E7%B1%BB%E5%88%A9%E7%94%A8.md">PHP原生类利用</a>
 
 ### 二、PHP反序列化
 
@@ -13,6 +12,8 @@ Record Some Php Audition Tricks And Experience
 2. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%80%83%E9%80%B8.md">字符串逃逸</a>
 3. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/Phar%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md">phar反序列化</a>
 4. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/session%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md">session反序列化</a>
+5. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/SoapCLient%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md">SoapClient之__call</a>
+6. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/PHP%E5%8E%9F%E7%94%9F%E7%B1%BB%E5%88%A9%E7%94%A8.md">Error/Exception之__toString</a>
 
 ### 三、主流框架
 
