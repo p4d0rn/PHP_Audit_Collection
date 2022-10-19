@@ -5,6 +5,7 @@ Record Some Php Audition Tricks And Experience
 
 1. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/intval.md">intval Tricks</a>
 2. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/preg_match.md">preg_match Tricks</a>
+3. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/call_user_func.md">call_user_func</a>
 
 ### 二、PHP反序列化
 
@@ -26,3 +27,11 @@ Record Some Php Audition Tricks And Experience
 ### 四、CMS
 
 To Be Continue....
+
+### 五、CTF_Record
+
+记录做题遇到的一些窒息的PHP题目
+
+* <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part7_CTFRecord/bestphp's%20revenge.md">bestphp's revenge</a>：SoapClient实现SSRF、session反序列化、变量覆盖等
+* <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part7_CTFRecord/%5BISITDTU%202019%5DEasyPHP.md">[ISITDTU 2019\]EasyPHP</a>：异或构造RCE、字符限制突破
+* <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part7_CTFRecord/%5BGYCTF2020%5DEasyphp.md">[GYCTF2020\]Easyphp</a>：POP链、反序列化字符串逃逸
