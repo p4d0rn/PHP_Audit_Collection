@@ -151,9 +151,11 @@ echo serialize(new BackDoor());
 
 需要在php.ini配置
 
-> session.upload_progress.enabled=On
 >
-> session.upload_progress.cleanup=Off  // 防止把生成的$_SESSION中的键值对给清理掉
+> //当浏览器向服务器上传一个文件时，php将会把此次文件上传的详细信息(如上传时间、上传进度等)存储在session当中
+> session.upload_progress.enabled=On 
+>
+> session.upload_progress.cleanup=Off  // 防止文件上传结束后把生成的$_SESSION中的键值对给清理掉
 
 我们需要先上传文件，同时POST一个与`session.upload_process.name`的同名变量
 
