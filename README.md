@@ -13,7 +13,7 @@ Record Some Php Audition Tricks And Experience
 3. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/Phar%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md">phar反序列化</a>
 4. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/session%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md">session反序列化</a>
 5. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/SoapCLient%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md">SoapClient之__call</a>
-6. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/PHP%E5%8E%9F%E7%94%9F%E7%B1%BB%E5%88%A9%E7%94%A8.md">Error/Exception之__toString</a>
+6. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part2_PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/PHP%E5%8E%9F%E7%94%9F%E7%B1%BBError%2BException.md">Error/Exception之__toString</a>
 
 ### 三、主流框架
 
