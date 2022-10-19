@@ -6,6 +6,7 @@ Record Some Php Audition Tricks And Experience
 1. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/intval.md">intval Tricks</a>
 2. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/preg_match.md">preg_match Tricks</a>
 3. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/call_user_func.md">call_user_func</a>
+4. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/session.upload_progress%E8%BF%9B%E8%A1%8C%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB.md">session.upload_progress进行文件包含</a>
 
 ### 二、PHP反序列化
 
