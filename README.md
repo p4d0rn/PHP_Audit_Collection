@@ -8,6 +8,7 @@ Record Some Php Audition Tricks And Experience
 3. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/call_user_func.md">call_user_func</a>
 4. <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part1_PHP%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95/session.upload_progress%E8%BF%9B%E8%A1%8C%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB.md">session.upload_progress进行文件包含</a>
 5. <a href="https://blog.csdn.net/qq_41617034/article/details/106658417">文件包含绕过方法</a>
+6. <a href="https://blog.csdn.net/solitudi/article/details/116666720">.htaccess利用</a>
 
 ### 二、PHP反序列化
 
@@ -37,4 +38,5 @@ To Be Continue....
 * <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part7_CTFRecord/bestphp's%20revenge.md">bestphp's revenge</a>：SoapClient实现SSRF、session反序列化、变量覆盖等
 * <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part7_CTFRecord/%5BISITDTU%202019%5DEasyPHP.md">[ISITDTU 2019\]EasyPHP</a>：异或构造RCE、字符限制突破
 * <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part7_CTFRecord/%5BGYCTF2020%5DEasyphp.md">[GYCTF2020\]Easyphp</a>：POP链、反序列化字符串逃逸
-* <a href="https://blog.csdn.net/solitudi/article/details/116666720">.htaccess利用</a>
+* <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part7_CTFRecord/%5B%E7%BE%8A%E5%9F%8E%E6%9D%AF2020%5Deasyphp.md">[羊城杯2020]easyphp</a>：.htaccess
+* <a href="https://github.com/p4d0rn/PHP_Audit_Collection/blob/main/Part7_CTFRecord/%5BHFCTF2022%5Dezphp.md">[HFCTF2022]ezphp</a>：LD_PRELOAD加载恶意.so文件
